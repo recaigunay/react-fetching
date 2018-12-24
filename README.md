@@ -1,8 +1,8 @@
 
 react sample project
 
-enjoy music master
+fetch github users card
 
-https://recai-react-musicmaster.herokuapp.com/
+https://recai-react-fetching.herokuapp.com/
 
 
