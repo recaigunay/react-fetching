@@ -22,6 +22,7 @@ class Form extends Component {
                 //debugger;
                 //console.log(resp);
                 this.props.onSubmit(resp);
+                this.setState({userName:''});
             })
             .catch(error => {
                 //debugger;
